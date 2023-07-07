@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: mysteri1988.//config-service
+  IMAGE_NAME: mysteri1988/config-service
   VERSION: latest
 
 jobs:
